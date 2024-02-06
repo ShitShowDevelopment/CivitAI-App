@@ -1,4 +1,4 @@
-# CivitAI-App
+# CivitAI App
 Unofficial web app for CivitAI
 
 ![screenshot][screenshot]
