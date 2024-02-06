@@ -11,7 +11,7 @@ Unofficial web app for CivitAI
 ## Details
 This app was built with median app builder. It should work on both android and iOS mobile devices.
 
-Due to the limits of the free median servoces, logged in sessions remain only in the built-in app browser. As such, exiting the app browser will automatically log the user out.
+Due to the limits of the free median services, logged in sessions remain only in the built-in app browser. As such, exiting the app browser will automatically log the user out.
 
 Download [here][median]
 
